@@ -9,6 +9,8 @@ First, open RimWor and enable Devmode. Then, go open a save or a dev quicktest c
 Once you are done reorganizing, press the two paper icon near the edit mode toggle to get the information needed to make these changes. Close the game.
 
 Create an "input.txt" and paste the clipboard contents you got from the game. It should look something like this example:
+
+(WARNING: do NOT remove blank lines. This file is parsed in a way that requires a very consistent format that you get from the copy button in Rimworld).
 ```xml
 Stonecutting
   <researchViewX>0.00</researchViewX>

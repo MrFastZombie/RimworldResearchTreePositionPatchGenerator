@@ -37,7 +37,7 @@ then you can build the program, and run it like so:
 
 ```
 > g++ ./treeparse.cpp
-> ./a.out
+> ./a.exe
 ```
 and you should get a patch.xml file that looks something like this:
 ```xml
